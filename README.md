@@ -1,4 +1,5 @@
 # Cities-of-Egypt
+Egyptian governorates and cities in Arabic and English 
 "القاهرة",
 "الإسكندرية",
 "الجيزة",
